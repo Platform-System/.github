@@ -103,7 +103,7 @@
 </tr>
 <tr>
 <td colspan="3"><b>TOTAL (Platform-System)</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/generated/total-badge.svg?v=83" alt="Total Org Commits"></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/generated/total-badge.svg?v=118" alt="Total Org Commits"></td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +114,7 @@
 ## 📈 Recent Commit Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platform-System/.github/main/generated/org-activity.svg?v=83" alt="Org Commit Activity" width="100%">
+  <img src="https://raw.githubusercontent.com/Platform-System/.github/main/generated/org-activity.svg?v=118" alt="Org Commit Activity" width="100%">
 </p>
 
 
