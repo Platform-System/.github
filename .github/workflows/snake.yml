@@ -1,12 +1,13 @@
 name: Generate Snake Animation
 
+# Vô hiệu hóa chạy tự động để tránh phiền phức mail báo lỗi
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # Chạy mỗi 6 tiếng một lần
-  push:
-    branches:
-      - main
-  workflow_dispatch:        # Cho phép chạy thủ công
+  # schedule:
+  #   - cron: '0 */6 * * *'
+  # push:
+  #   branches:
+  #     - main
+  workflow_dispatch:        # Chỉ cho phép chạy thủ công khi bạn muốn
 
 jobs:
   generate:
