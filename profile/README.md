@@ -75,10 +75,10 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.SystemContext?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td><b>Common</b></td>
-<td><a href="https://github.com/Platform-System/Platform.Common/actions"><img src="https://github.com/Platform-System/Platform.Common/actions/workflows/ci.yml/badge.svg?v=83" alt="Common CI"></a></td>
-<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Common?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Common?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+<td><b>UI</b></td>
+<td><a href="https://github.com/Platform-System/Platform.UI/actions"><img src="https://github.com/Platform-System/Platform.UI/actions/workflows/ci.yml/badge.svg?v=83" alt="UI CI"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.UI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.UI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td colspan="4"><b>4️⃣ Ops & Infrastructure (DevOps)</b></td>
