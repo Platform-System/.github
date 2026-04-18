@@ -12,7 +12,16 @@
 </thead>
 <tbody>
 <tr>
-<td colspan="4"><b>1️⃣ APIs (Business Services)</b></td>
+<td colspan="4"><b>1️⃣ UI (System Portals)</b></td>
+</tr>
+<tr>
+<td><b>UI</b></td>
+<td><a href="https://github.com/Platform-System/Platform.UI/actions"><img src="https://github.com/Platform-System/Platform.UI/actions/workflows/ci.yml/badge.svg?v=83" alt="UI CI"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.UI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.UI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td colspan="4"><b>2️⃣ APIs (Business Services)</b></td>
 </tr>
 <tr>
 <td><b>Identity Service</b></td>
@@ -33,7 +42,7 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Gateway?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>2️⃣ Core (Architecture Backbone)</b></td>
+<td colspan="4"><b>3️⃣ Core (Architecture Backbone)</b></td>
 </tr>
 <tr>
 <td><b>Domain</b></td>
@@ -60,7 +69,7 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Contracts?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>3️⃣ Base (Foundation Libraries)</b></td>
+<td colspan="4"><b>4️⃣ Base (Foundation Libraries)</b></td>
 </tr>
 <tr>
 <td><b>BuildingBlocks</b></td>
@@ -75,7 +84,7 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.SystemContext?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>4️⃣ Ops & Infrastructure (DevOps)</b></td>
+<td colspan="4"><b>5️⃣ Ops & Infrastructure (DevOps)</b></td>
 </tr>
 <tr>
 <td><b>IaC</b></td>
@@ -94,15 +103,6 @@
 <td><i>(N/A)</i></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Docs?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Docs?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
-</tr>
-<tr>
-<td colspan="4"><b>5️⃣ UI (System Portals)</b></td>
-</tr>
-<tr>
-<td><b>UI</b></td>
-<td><a href="https://github.com/Platform-System/Platform.UI/actions"><img src="https://github.com/Platform-System/Platform.UI/actions/workflows/ci.yml/badge.svg?v=83" alt="UI CI"></a></td>
-<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.UI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.UI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td colspan="3"><b>TOTAL (Platform-System)</b></td>
