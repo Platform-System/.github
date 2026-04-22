@@ -75,7 +75,8 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Contracts?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>4️⃣ Base (Foundation Libraries)</b></td>
+<tr>
+<td colspan="4"><b>4️⃣ Foundation (Shared Architecture)</b></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.BuildingBlocks"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/buildingblocks.svg" alt="BuildingBlocks"></a></b></td>
@@ -84,16 +85,19 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.BuildingBlocks?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
+<td><b><a href="https://github.com/Platform-System/Platform.SharedKernel"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/shared_kernel.svg" alt="SharedKernel"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.SharedKernel/actions"><img src="https://github.com/Platform-System/Platform.SharedKernel/actions/workflows/ci.yml/badge.svg?v=83" alt="SharedKernel CI"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.SharedKernel?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.SharedKernel?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
 <td><b><a href="https://github.com/Platform-System/Platform.SystemContext"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/systemcontext.svg" alt="SystemContext"></a></b></td>
 <td><a href="https://github.com/Platform-System/Platform.SystemContext/actions"><img src="https://github.com/Platform-System/Platform.SystemContext/actions/workflows/ci.yml/badge.svg?v=83" alt="SystemContext CI"></a></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.SystemContext?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.SystemContext?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/Platform-System/Platform.SharedKernel"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/shared_kernel.svg" alt="SharedKernel"></a></b></td>
-<td><a href="https://github.com/Platform-System/Platform.SharedKernel/actions"><img src="https://github.com/Platform-System/Platform.SharedKernel/actions/workflows/ci.yml/badge.svg?v=83" alt="SharedKernel CI"></a></td>
-<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.SharedKernel?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.SharedKernel?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+<td colspan="4"><b>5️⃣ Technical (Infrastructure Adapters)</b></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Api"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/api.svg" alt="API"></a></b></td>
@@ -114,7 +118,7 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Email?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>5️⃣ Ops & Infrastructure (DevOps)</b></td>
+<td colspan="4"><b>6️⃣ Ops & Infrastructure (DevOps)</b></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.IaC"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/iac.svg" alt="IaC"></a></b></td>
