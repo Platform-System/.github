@@ -75,6 +75,12 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Contracts?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
+<td><b><a href="https://github.com/Platform-System/Platform.Api"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/api.svg" alt="API"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.Api/actions"><img src="https://github.com/Platform-System/Platform.Api/actions/workflows/ci.yml/badge.svg?v=83" alt="API CI"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Api?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Api?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
 <tr>
 <td colspan="4"><b>4️⃣ Foundation (Shared Architecture)</b></td>
 </tr>
@@ -98,12 +104,6 @@
 </tr>
 <tr>
 <td colspan="4"><b>5️⃣ Technical (Infrastructure Adapters)</b></td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/Platform-System/Platform.Api"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/api.svg" alt="API"></a></b></td>
-<td><a href="https://github.com/Platform-System/Platform.Api/actions"><img src="https://github.com/Platform-System/Platform.Api/actions/workflows/ci.yml/badge.svg?v=83" alt="API CI"></a></td>
-<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Api?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Api?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Messaging"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/messaging.svg" alt="Messaging"></a></b></td>
