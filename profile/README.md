@@ -90,6 +90,30 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.SystemContext?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
+<td><b><a href="https://github.com/Platform-System/Platform.SharedKernel"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/shared_kernel.svg" alt="SharedKernel"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.SharedKernel/actions"><img src="https://github.com/Platform-System/Platform.SharedKernel/actions/workflows/ci.yml/badge.svg?v=83" alt="SharedKernel CI"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.SharedKernel?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.SharedKernel?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Platform-System/Platform.Api"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/api.svg" alt="API"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.Api/actions"><img src="https://github.com/Platform-System/Platform.Api/actions/workflows/ci.yml/badge.svg?v=83" alt="API CI"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Api?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Api?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Platform-System/Platform.Messaging"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/messaging.svg" alt="Messaging"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.Messaging/actions"><img src="https://github.com/Platform-System/Platform.Messaging/actions/workflows/ci.yml/badge.svg?v=83" alt="Messaging CI"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Messaging?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Messaging?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Platform-System/Platform.Email"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/email_service.svg" alt="Email Service"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.Email/actions"><img src="https://github.com/Platform-System/Platform.Email/actions/workflows/ci.yml/badge.svg?v=83" alt="Email CI"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Email?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Email?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
 <td colspan="4"><b>5️⃣ Ops & Infrastructure (DevOps)</b></td>
 </tr>
 <tr>
@@ -109,6 +133,12 @@
 <td><i>(N/A)</i></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Docs?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Docs?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Platform-System/.github"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/profile_label.svg" alt="Profile"></a></b></td>
+<td><i>(N/A)</i></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/.github?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/.github?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 
 </tbody>
