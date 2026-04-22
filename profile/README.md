@@ -110,10 +110,7 @@
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Docs?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Docs?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
-<tr>
-<td colspan="3"><b>TOTAL (Platform-System)</b></td>
-<td align="center"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/generated/total-badge.svg?v=118" alt="Total Org Commits"></td>
-</tr>
+
 </tbody>
 </table>
 </div>
