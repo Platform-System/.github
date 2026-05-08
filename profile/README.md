@@ -68,19 +68,15 @@
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.ProductCoverUpload.Function"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/product_cover_upload.svg" alt="Product Cover Upload"></a></b></td>
-<td>
-  <a href="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions/workflows/ci.yml"><img src="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions/workflows/ci.yml/badge.svg?v=83" height="34" alt="CI"></a>
-</td>
-<td align="center"><i>(N/A)</i></td>
+<td><a href="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions/workflows/ci.yml/badge.svg?v=83" height="34" alt="CI"></a></td>
+<td><a href="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions/workflows/cd.yml/badge.svg?v=83" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.ProductCoverUpload.Function?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.ProductCoverUpload.Function?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.ProductMediaUpload.Function"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/product_media_upload.svg" alt="Product Media Upload"></a></b></td>
-<td>
-  <a href="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions/workflows/ci.yml"><img src="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions/workflows/ci.yml/badge.svg?v=83" height="34" alt="CI"></a>
-</td>
-<td align="center"><i>(N/A)</i></td>
+<td><a href="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions/workflows/ci.yml/badge.svg?v=83" height="34" alt="CI"></a></td>
+<td><a href="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions/workflows/cd.yml/badge.svg?v=83" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.ProductMediaUpload.Function?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.ProductMediaUpload.Function?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
