@@ -57,14 +57,14 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Ordering.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/Platform-System/Platform.Store.API">Store Service</a></b></td>
+<td><b><a href="https://github.com/Platform-System/Platform.Store.API"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/store_service.svg" alt="Store Service"></a></b></td>
 <td><a href="https://github.com/Platform-System/Platform.Store.API/actions"><img src="https://github.com/Platform-System/Platform.Store.API/actions/workflows/ci.yml/badge.svg?v=83" height="34" alt="CI"></a></td>
 <td align="center"><i>(N/A)</i></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Store.API?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Store.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>4️⃣ Functions (Serverless Modules)</b></td>
+<td colspan="5"><b>4️⃣ Functions (Serverless Modules)</b></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.ProductCoverUpload.Function"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/product_cover_upload.svg" alt="Product Cover Upload"></a></b></td>
