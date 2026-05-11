@@ -179,7 +179,7 @@
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.IaC"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/iac.svg?v=4" alt="IaC"></a></b></td>
 <td><a href="https://github.com/Platform-System/Platform.IaC/actions"><img src="https://github.com/Platform-System/Platform.IaC/actions/workflows/ci.yml/badge.svg?v=4" height="34" alt="CI"></a></td>
-<td align="center"><i>(N/A)</i></td>
+<td><a href="https://github.com/Platform-System/Platform.IaC/actions"><img src="https://github.com/Platform-System/Platform.IaC/actions/workflows/cd.yml/badge.svg?v=4" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.IaC?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.IaC?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
