@@ -45,7 +45,7 @@
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Identity.API"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/identity_service.svg?v=4" alt="Identity Service"></a></b></td>
 <td><a href="https://github.com/Platform-System/Platform.Identity.API/actions"><img src="https://github.com/Platform-System/Platform.Identity.API/actions/workflows/ci.yml/badge.svg?v=4" height="34" alt="CI"></a></td>
-<td align="center"><i>(N/A)</i></td>
+<td><a href="https://github.com/Platform-System/Platform.Identity.API/actions"><img src="https://github.com/Platform-System/Platform.Identity.API/actions/workflows/cd.yml/badge.svg?v=4" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Identity.API?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Identity.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
