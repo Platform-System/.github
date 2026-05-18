@@ -13,14 +13,28 @@
 </thead>
 <tbody>
 <tr>
-<td colspan="5"><b>1️⃣ Store UI (System Portals)</b></td>
+<td colspan="5"><b>1️⃣ User Interfaces (System Portals)</b></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/Platform-System/Platform.StoreUI"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/store-ui.svg?v=5" alt="Store UI"></a></b></td>
-<td><a href="https://github.com/Platform-System/Platform.StoreUI/actions"><img src="https://github.com/Platform-System/Platform.StoreUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td><a href="https://github.com/Platform-System/Platform.StoreUI/actions"><img src="https://github.com/Platform-System/Platform.StoreUI/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
-<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.StoreUI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.StoreUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+<td><b><a href="https://github.com/Platform-System/Platform.PortalUI"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/portal_ui.svg?v=5" alt="Portal UI"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.PortalUI/actions"><img src="https://github.com/Platform-System/Platform.PortalUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td><a href="https://github.com/Platform-System/Platform.PortalUI/actions"><img src="https://github.com/Platform-System/Platform.PortalUI/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.PortalUI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.PortalUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Platform-System/Platform.MerchantUI"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/merchant_ui.svg?v=5" alt="Merchant UI"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.MerchantUI/actions"><img src="https://github.com/Platform-System/Platform.MerchantUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td><a href="https://github.com/Platform-System/Platform.MerchantUI/actions"><img src="https://github.com/Platform-System/Platform.MerchantUI/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.MerchantUI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.MerchantUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Platform-System/Platform.AdminUI"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/admin_ui.svg?v=5" alt="Admin UI"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.AdminUI/actions"><img src="https://github.com/Platform-System/Platform.AdminUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td><a href="https://github.com/Platform-System/Platform.AdminUI/actions"><img src="https://github.com/Platform-System/Platform.AdminUI/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.AdminUI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.AdminUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td colspan="5"><b>2️⃣ Entry Point (Gateway)</b></td>
@@ -64,6 +78,13 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Store.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
+<td><b><a href="https://github.com/Platform-System/Platform.Payment.API"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/payment_service.svg?v=5" alt="Payment Service"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.Payment.API/actions"><img src="https://github.com/Platform-System/Platform.Payment.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td><a href="https://github.com/Platform-System/Platform.Payment.API/actions"><img src="https://github.com/Platform-System/Platform.Payment.API/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Payment.API?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Payment.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
 <td colspan="5"><b>4️⃣ Functions (Serverless Modules)</b></td>
 </tr>
 <tr>
@@ -79,6 +100,13 @@
 <td><a href="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.ProductMediaUpload.Function?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.ProductMediaUpload.Function?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Platform-System/Platform.StoreImageUpload.Function"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/store_image_upload.svg?v=5" alt="Store Image Upload"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.StoreImageUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.StoreImageUpload.Function/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td><a href="https://github.com/Platform-System/Platform.StoreImageUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.StoreImageUpload.Function/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.StoreImageUpload.Function?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.StoreImageUpload.Function?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td colspan="5"><b>5️⃣ Core (Architecture Backbone)</b></td>
