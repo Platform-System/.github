@@ -37,7 +37,7 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.AdminUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/Platform-System/Platform.DesignUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/design_ui.svg?v=6" alt="DesignUI"></a></b></td>
+<td><b><a href="https://github.com/Platform-System/Platform.DesignUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/design_ui.svg?v=6" alt="Design UI"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.DesignUI/actions"><img src="https://github.com/Platform-System/Platform.DesignUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
 <td align="center"><i>(N/A)</i></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.DesignUI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
