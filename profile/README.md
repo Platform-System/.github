@@ -37,11 +37,11 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.AdminUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/Platform-System/DesignSystemUI"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/design_system.svg?v=5" alt="DesignSystem UI"></a></b></td>
-<td><a href="https://github.com/Platform-System/DesignSystemUI/actions"><img src="https://github.com/Platform-System/DesignSystemUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td><b><a href="https://github.com/Platform-System/Platform.DesignSystem"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/design_system.svg?v=5" alt="DesignSystem UI"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.DesignSystem/actions"><img src="https://github.com/Platform-System/Platform.DesignSystem/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
 <td align="center"><i>(N/A)</i></td>
-<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/DesignSystemUI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/DesignSystemUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.DesignSystem?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.DesignSystem?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td colspan="5"><b>2️⃣ Entry Point (Gateway)</b></td>
