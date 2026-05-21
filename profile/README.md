@@ -37,6 +37,13 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.AdminUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
+<td><b><a href="https://github.com/Platform-System/DesignSystemUI"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/design_system.svg?v=5" alt="Design System"></a></b></td>
+<td><a href="https://github.com/Platform-System/DesignSystemUI/actions"><img src="https://github.com/Platform-System/DesignSystemUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td align="center"><i>(N/A)</i></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/DesignSystemUI?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/DesignSystemUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
 <td colspan="5"><b>2️⃣ Entry Point (Gateway)</b></td>
 </tr>
 <tr>
@@ -83,6 +90,13 @@
 <td><a href="https://github.com/Platform-System/Platform.Payment.API/actions"><img src="https://github.com/Platform-System/Platform.Payment.API/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Payment.API?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Payment.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Platform-System/Platform.Wallet.API"><img src="https://raw.githubusercontent.com/Platform-System/Platform.Docs/main/assets/labels/wallet_service.svg?v=5" alt="Wallet Service"></a></b></td>
+<td><a href="https://github.com/Platform-System/Platform.Wallet.API/actions"><img src="https://github.com/Platform-System/Platform.Wallet.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td><a href="https://github.com/Platform-System/Platform.Wallet.API/actions"><img src="https://github.com/Platform-System/Platform.Wallet.API/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/Platform-System/Platform.Wallet.API?label=%20&color=blue&style=flat-square" alt="Last Commit"></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Wallet.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td colspan="5"><b>4️⃣ Functions (Serverless Modules)</b></td>
