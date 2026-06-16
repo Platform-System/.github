@@ -176,7 +176,7 @@
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Email"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/email_service.svg?v=6" alt="Email Service"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.Email/actions"><img src="https://github.com/Platform-System/Platform.Email/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><i>(N/A)</i></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.Email/actions"><img src="https://github.com/Platform-System/Platform.Email/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Email?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
