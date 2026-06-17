@@ -1,6 +1,5 @@
 # 🚀 Platform System
 
-<div align="center">
 <table width="100%">
 <thead>
 <tr>
@@ -181,4 +180,3 @@
 </tr>
 </tbody>
 </table>
-</div>
