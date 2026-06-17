@@ -96,28 +96,7 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Wallet.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>5️⃣ Functions</b></td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/Platform-System/Platform.ProductCoverUpload.Function"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/product_cover_upload.svg?v=6" alt="Product Cover Upload"></a></b></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.ProductCoverUpload.Function/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.ProductCoverUpload.Function?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/Platform-System/Platform.ProductMediaUpload.Function"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/product_media_upload.svg?v=6" alt="Product Media Upload"></a></b></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.ProductMediaUpload.Function/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.ProductMediaUpload.Function?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/Platform-System/Platform.StoreImageUpload.Function"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/store_image_upload.svg?v=6" alt="Store Image Upload"></a></b></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.StoreImageUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.StoreImageUpload.Function/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.StoreImageUpload.Function/actions"><img src="https://github.com/Platform-System/Platform.StoreImageUpload.Function/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.StoreImageUpload.Function?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
-</tr>
-<tr>
-<td colspan="4"><b>6️⃣ Core</b></td>
+<td colspan="4"><b>5️⃣ Core</b></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Api"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/api.svg?v=6" alt="API"></a></b></td>
@@ -150,7 +129,7 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Infrastructure?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>7️⃣ Foundations</b></td>
+<td colspan="4"><b>6️⃣ Foundations</b></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.BuildingBlocks"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/buildingblocks.svg?v=6" alt="Building Blocks"></a></b></td>
@@ -171,7 +150,7 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.SystemContext?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>8️⃣ Infrastructure</b></td>
+<td colspan="4"><b>7️⃣ Infrastructure</b></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Email"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/email_service.svg?v=6" alt="Email Service"></a></b></td>
@@ -186,7 +165,7 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Messaging?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td colspan="4"><b>9️⃣ DevOps</b></td>
+<td colspan="4"><b>8️⃣ DevOps</b></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.CI-CD"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/ci_cd.svg?v=6" alt="CI-CD"></a></b></td>
