@@ -1,12 +1,13 @@
 # 🚀 Platform System
 
+<div align="center">
 <table width="100%">
 <thead>
 <tr>
-<th align="center">Service</th>
-<th align="center">CI Status</th>
-<th align="center">CD Status</th>
-<th align="center">Total Commits</th>
+<th align="center" width="480">Service</th>
+<th align="center" width="130">CI Status</th>
+<th align="center" width="130">CD Status</th>
+<th align="center" width="110">Total Commits</th>
 </tr>
 </thead>
 <tbody>
@@ -180,3 +181,4 @@
 </tr>
 </tbody>
 </table>
+</div>
