@@ -4,10 +4,10 @@
 <table width="100%">
 <thead>
 <tr>
-<th align="center" width="45%">Service</th>
-<th align="center" width="25%">CI Status</th>
-<th align="center" width="20%">CD Status</th>
-<th align="center" width="10%">Total Commits</th>
+<th align="center">Service</th>
+<th align="center">CI Status</th>
+<th align="center">CD Status</th>
+<th align="center">Total Commits</th>
 </tr>
 </thead>
 <tbody>
@@ -17,19 +17,19 @@
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.PortalUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/portal_ui.svg?v=6" alt="Portal UI"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.PortalUI/actions"><img src="https://github.com/Platform-System/Platform.PortalUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.PortalUI/actions"><img src="https://github.com/Platform-System/Platform.PortalUI/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.PortalUI/actions"><img src="https://github.com/Platform-System/Platform.PortalUI/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.PortalUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.MerchantUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/merchant_ui.svg?v=6" alt="Merchant UI"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.MerchantUI/actions"><img src="https://github.com/Platform-System/Platform.MerchantUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.MerchantUI/actions"><img src="https://github.com/Platform-System/Platform.MerchantUI/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.MerchantUI/actions"><img src="https://github.com/Platform-System/Platform.MerchantUI/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.MerchantUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.AdminUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/admin_ui.svg?v=6" alt="Admin UI"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.AdminUI/actions"><img src="https://github.com/Platform-System/Platform.AdminUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.AdminUI/actions"><img src="https://github.com/Platform-System/Platform.AdminUI/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.AdminUI/actions"><img src="https://github.com/Platform-System/Platform.AdminUI/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.AdminUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Gateway"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/gateway.svg?v=6" alt="Gateway"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.Gateway/actions"><img src="https://github.com/Platform-System/Platform.Gateway/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.Gateway/actions"><img src="https://github.com/Platform-System/Platform.Gateway/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.Gateway/actions"><img src="https://github.com/Platform-System/Platform.Gateway/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Gateway?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
@@ -62,37 +62,37 @@
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Catalog.API"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/catalog_service.svg?v=6" alt="Catalog Service"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.Catalog.API/actions"><img src="https://github.com/Platform-System/Platform.Catalog.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.Catalog.API/actions"><img src="https://github.com/Platform-System/Platform.Catalog.API/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.Catalog.API/actions"><img src="https://github.com/Platform-System/Platform.Catalog.API/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Catalog.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Identity.API"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/identity_service.svg?v=6" alt="Identity Service"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.Identity.API/actions"><img src="https://github.com/Platform-System/Platform.Identity.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.Identity.API/actions"><img src="https://github.com/Platform-System/Platform.Identity.API/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.Identity.API/actions"><img src="https://github.com/Platform-System/Platform.Identity.API/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Identity.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Ordering.API"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/ordering_service.svg?v=6" alt="Ordering Service"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.Ordering.API/actions"><img src="https://github.com/Platform-System/Platform.Ordering.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.Ordering.API/actions"><img src="https://github.com/Platform-System/Platform.Ordering.API/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.Ordering.API/actions"><img src="https://github.com/Platform-System/Platform.Ordering.API/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Ordering.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Store.API"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/store_service.svg?v=6" alt="Store Service"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.Store.API/actions"><img src="https://github.com/Platform-System/Platform.Store.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.Store.API/actions"><img src="https://github.com/Platform-System/Platform.Store.API/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.Store.API/actions"><img src="https://github.com/Platform-System/Platform.Store.API/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Store.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Payment.API"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/payment_service.svg?v=6" alt="Payment Service"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.Payment.API/actions"><img src="https://github.com/Platform-System/Platform.Payment.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.Payment.API/actions"><img src="https://github.com/Platform-System/Platform.Payment.API/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.Payment.API/actions"><img src="https://github.com/Platform-System/Platform.Payment.API/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Payment.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Wallet.API"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/wallet_service.svg?v=6" alt="Wallet Service"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.Wallet.API/actions"><img src="https://github.com/Platform-System/Platform.Wallet.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.Wallet.API/actions"><img src="https://github.com/Platform-System/Platform.Wallet.API/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.Wallet.API/actions"><img src="https://github.com/Platform-System/Platform.Wallet.API/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Wallet.API?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.Email"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/email_service.svg?v=6" alt="Email Service"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.Email/actions"><img src="https://github.com/Platform-System/Platform.Email/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.Email/actions"><img src="https://github.com/Platform-System/Platform.Email/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.Email/actions"><img src="https://github.com/Platform-System/Platform.Email/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.Email?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.IaC"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/iac.svg?v=6" alt="IaC"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.IaC/actions"><img src="https://github.com/Platform-System/Platform.IaC/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/Platform.IaC/actions"><img src="https://github.com/Platform-System/Platform.IaC/actions/workflows/cd.yml/badge.svg?v=5" height="34" alt="CD"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.IaC/actions"><img src="https://github.com/Platform-System/Platform.IaC/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.IaC?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 </tbody>
