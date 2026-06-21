@@ -33,6 +33,18 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.AdminUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
+<td><b><a href="https://github.com/Platform-System/Platform.PaymentUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/payment_ui.svg?v=6" alt="Payment UI"></a></b></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.PaymentUI/actions"><img src="https://github.com/Platform-System/Platform.PaymentUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.PaymentUI/actions"><img src="https://github.com/Platform-System/Platform.PaymentUI/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.PaymentUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Platform-System/Platform.AccountUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/account_ui.svg?v=6" alt="Account UI"></a></b></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.AccountUI/actions"><img src="https://github.com/Platform-System/Platform.AccountUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.AccountUI/actions"><img src="https://github.com/Platform-System/Platform.AccountUI/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.AccountUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+</tr>
+<tr>
 <td colspan="4"><b>2️⃣ Packages</b></td>
 </tr>
 <tr>
