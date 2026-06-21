@@ -50,13 +50,13 @@
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.DesignUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/design_ui.svg?v=6" alt="Design UI"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.DesignUI/actions"><img src="https://github.com/Platform-System/Platform.DesignUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><i>(N/A)</i></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.DesignUI/actions"><img src="https://github.com/Platform-System/Platform.DesignUI/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.DesignUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/Platform.ApiClient"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/api_client.svg?v=6" alt="API Client"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Platform.ApiClient/actions"><img src="https://github.com/Platform-System/Platform.ApiClient/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><i>(N/A)</i></td>
+<td align="center"><a href="https://github.com/Platform-System/Platform.ApiClient/actions"><img src="https://github.com/Platform-System/Platform.ApiClient/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/Platform.ApiClient?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
