@@ -150,12 +150,6 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/BuildingBlocks?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/Platform-System/SharedKernel"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/shared_kernel.svg?v=6" alt="Shared Kernel"></a></b></td>
-<td align="center"><a href="https://github.com/Platform-System/SharedKernel/actions"><img src="https://github.com/Platform-System/SharedKernel/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><i>(N/A)</i></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/SharedKernel?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
-</tr>
-<tr>
 <td><b><a href="https://github.com/Platform-System/SystemContext"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/systemcontext.svg?v=6" alt="System Context"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/SystemContext/actions"><img src="https://github.com/Platform-System/SystemContext/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
 <td align="center"><i>(N/A)</i></td>
