@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const TOKEN = process.env.ORG_GRAPH_TOKEN || process.env.GITHUB_TOKEN;
-const ORG = 'Platform-System';
+const ORG = 'System';
 const AUTHOR = 'Khanh-Hung';
 
 // --- Helpers ---
@@ -113,7 +113,7 @@ function generateSVG(commitsByDay, startDate, endDate, total) {
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
   <rect width="100%" height="100%" fill="#0d1117" rx="8"/>
-  <text x="${PAD.left}" y="18" fill="#e6edf3" font-size="12" font-weight="600" font-family="monospace">🚀 Platform-System · ${total} org commits in the last year</text>
+  <text x="${PAD.left}" y="18" fill="#e6edf3" font-size="12" font-weight="600" font-family="monospace">🚀 System · ${total} org commits in the last year</text>
   ${monthLbls}
   ${dayLbls}
   ${cells}
