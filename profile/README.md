@@ -21,10 +21,10 @@
 <td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/PortalUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/Platform-System/UI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/merchant_ui.svg?v=6" alt="Merchant UI"></a></b></td>
-<td align="center"><a href="https://github.com/Platform-System/UI/actions"><img src="https://github.com/Platform-System/UI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
-<td align="center"><a href="https://github.com/Platform-System/UI/actions"><img src="https://github.com/Platform-System/UI/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/UI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
+<td><b><a href="https://github.com/Platform-System/MerchantUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/merchant_ui.svg?v=6" alt="Merchant UI"></a></b></td>
+<td align="center"><a href="https://github.com/Platform-System/MerchantUI/actions"><img src="https://github.com/Platform-System/MerchantUI/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/MerchantUI/actions"><img src="https://github.com/Platform-System/MerchantUI/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/t/Platform-System/MerchantUI?style=flat-square&label=%20&color=teal" alt="Total Commits"></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/Platform-System/AdminUI"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/admin_ui.svg?v=6" alt="Admin UI"></a></b></td>
