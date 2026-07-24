@@ -63,6 +63,11 @@
 <td colspan="3"><b>4️⃣ Services</b></td>
 </tr>
 <tr>
+<td><b><a href="https://github.com/Platform-System/Cart.API"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/cart_service.svg?v=6" alt="Cart Service"></a></b></td>
+<td align="center"><a href="https://github.com/Platform-System/Cart.API/actions"><img src="https://github.com/Platform-System/Cart.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
+<td align="center"><a href="https://github.com/Platform-System/Cart.API/actions"><img src="https://github.com/Platform-System/Cart.API/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
+</tr>
+<tr>
 <td><b><a href="https://github.com/Platform-System/Catalog.API"><img src="https://raw.githubusercontent.com/Platform-System/.github/main/profile/assets/labels/catalog_service.svg?v=6" alt="Catalog Service"></a></b></td>
 <td align="center"><a href="https://github.com/Platform-System/Catalog.API/actions"><img src="https://github.com/Platform-System/Catalog.API/actions/workflows/ci.yml/badge.svg?v=5" height="34" alt="CI"></a></td>
 <td align="center"><a href="https://github.com/Platform-System/Catalog.API/actions"><img src="https://github.com/Platform-System/Catalog.API/actions/workflows/cd.yml/badge.svg?v=7" height="34" alt="CD"></a></td>
